@@ -1,0 +1,2 @@
+# GastoTrackerApiRest
+Manage your IMPORTANT AND NOT AT ALL UNNECESSARY EXPENSES
